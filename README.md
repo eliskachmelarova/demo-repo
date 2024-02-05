@@ -11,3 +11,4 @@ Some more text.
 1. Open index.html in your browser.
 2. Step 2
 3. Step 3
+4. Have fun 
